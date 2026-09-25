@@ -24,6 +24,14 @@ Built with **LangChain Agents** + **AWS Bedrock (Amazon Nova 2 Lite)**, using re
 
 ---
 
+## 🔄 How it works
+
+<p align="center">
+  <img src="agent_flowchart.svg" alt="Flowchart of the personal finance agent: user query goes to the Nova 2 Lite agent, which decides which tool to call, the tool executes, the agent formats the result into a reply, and sends the response back to the user" width="550"/>
+</p>
+
+---
+
 ## 🛠️ The 5 Tools
 
 | # | Tool | What it does |
