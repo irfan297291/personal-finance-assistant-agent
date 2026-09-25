@@ -1,0 +1,7 @@
+langchain
+langchain-aws
+langgraph
+boto3
+botocore
+matplotlib
+pandas
